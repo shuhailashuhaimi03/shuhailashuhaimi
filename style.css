@@ -1,0 +1,32 @@
+
+p
+
+{ 
+text-align:center;
+color:#000000;
+font-family:"Times New Roman";
+}
+
+h2
+
+{
+text-align:center;
+color:#000000;
+font-family:Cursive;
+}
+
+body 
+{
+background-color:#FAE5D3;
+}
+
+table
+{
+align:center;
+bgcolor:#00008B;
+border:thin;
+border:#000000;
+font-family:"Times New Roman";
+width:70%;
+height:50%
+}
